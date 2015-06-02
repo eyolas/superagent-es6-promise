@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/travis/eyolas/superagent-es6-promise/master.svg?style=flat-square)](https://travis-ci.org/eyolas/superagent-es6-promise)
+
 superagent-es6-promise
 ===========================
 
