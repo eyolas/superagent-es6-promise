@@ -16,7 +16,7 @@ it was initially forked from [superagent-bluebird-promise](https://github.com/Ky
 Simply require this package instead of `superagent`. Then you can call `.then()` instead of `.end()` to get a promise for your requests.
 
 ```javascript
-var request = require('superagent-bluebird-promise');
+var request = require('superagent-es6-promise');
 
 request.get('/an-endpoint')
   .then(function(res) {
